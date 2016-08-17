@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ch08>
+    <mainTitle>GUI Basics and Graphics</mainTitle>
+    <intro>In GUI basics great for learning object oriented programming. In Graphics you can draw custom shapes.</intro>
+
+    <sectTitle1>The Java GUI API</sectTitle1>
+    <sectTitle2>Using Panels as SubContainers</sectTitle2>
+    <sectTitle3>The color and Font class and Text Fields</sectTitle3>
+    <sectTitle4>Image Icons</sectTitle4>
+    <sectTitle5>JButton, Jcheckbox, JRadionButton, Labels</sectTitle5>
+    <sectTitle6>The Graphics class</sectTitle6>
+    <sectTitle7>Drawing Strings, Lines, Rectangles, Ovals, and Arcs</sectTitle7>
+    <sectTitle8>Displaying Images</sectTitle8>
+
+    <sect1>Contains classes that can be classified into three stages within a container: classes container classes, and helper classes</sect1>
+    <sect2>Panels can be used as subcontainers to group GUI compnents to achieved the desired layout.</sect2>
+    <sect3>The color class is an object created within the color class. The font class are the objects created within the font class. Text fields are used to create a text box.</sect3>
+    <sect4>The image icons are objects within the Image Icon</sect4>
+    <sect5>JBUtton is used to create a push button. A JCheckbox is a class used to create a check box. A JRadioBUtton is used to create a radio button. Labels are used in label class.</sect5>    <sect6>This contains the methods for drawing shapes
+    <sect7>You can draw strings, lines, Rectangles, and Ovals. An arc is part of an oval.</sect7>
+    <sect8>You can draw images in a graphics context</sect8>
+
+    <hint1>Example of the GUI:</hint1>
+    <hint2>Example of this is:</hint2>
+    <hint3>The color and font examples are:</hint3>
+    <hint4>Examples of the image icons are:</hint4>
+    <hint5>The button examples are:</hint5>
+    <hint6>Examples of the graphics you can do is:</hint6>
+    <hint7>Exampls of drawing the shapes above are:</hint7>
+    <hint8>Example of how to display images</hint8>
+
+	<recap>In this chapter you have learned the basics of GUI and the graphics part of Java</recap>
+</ch08>
+
+
+
+

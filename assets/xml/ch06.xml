@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ch06>
+	<mainTitle>Thinking in objects</mainTitle>
+	<intro>This is on design and explores the differences between procedural and object oriented programming</intro>
+
+	<sectTitle1>Immutable Objects and Classes</sectTitle1>
+	<sectTitle2>The scope of variables</sectTitle2>
+	<sectTitle3>The this reference</sectTitle3>
+	<sectTitle4>Class Abstraction and Encapsulation</sectTitle4>
+	<sectTitle5>Object-Oriented Thinking</sectTitle5>
+	<sectTitle6>Processing Primitive Data Type Values as Objects</sectTitle6>
+	<sectTitle7>Conversion between Primative Types and Wrapper Class Types</sectTitle7>
+
+	<sect1>Define immutable objects. Once done they cannot be changed</sect1>
+	<sect2>Scope of static and scope of instance is the entire class. It doesnt matter where the variables are stored</sect2>
+	<sect3>This refers to the object itself. It can also be used inside a constructor to invoke another.</sect3>
+	<sect4>This is the seperation of class implementation from the use of a class. The details of this are hidden from the user.</sect4>
+	<sect5>This section deals with the procedural paradigm on designing methods</sect5>
+	<sect6>A primitive value is not an object but it can be wrapped in an object using wrapper class in the API</sect6>
+	<sect7>The value can automatically be converted to an object using a wrapper class, and vice versa. It all depends on the context</sect7>
+
+	<hint1>This section will help you understand the differences</hint1>
+	<hint1>Examples of this are:</hint1>
+	<hint1>The example of this is:</hint1>
+	<hint1>This will show you how it works:</hint1>
+	<hint1>This example gives you an idea of the seperation</hint1>
+	<hint1>Here is the example of designing methods:</hint1>
+	<hint1>Example of a primitive value:</hint1>
+	<hint1>Example of how this works:</hint1>
+
+	<recap>IN this chapter you learned how objects work in code and how they can be worked in.</recap>
+</ch06>

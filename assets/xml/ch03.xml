@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ch03>
+	<mainTitle>Methods and Variables in Java
+	<intro>You will understand the methods and variables after completing this chapter</intro>
+
+	<sectTitle1>Defining a method</sectTitle1>
+	<sectTitle2>Calling a method</sectTitle2>
+	<sectTitle3>Passing Parameters by Values</sectTitle3>
+	<sectTitle4>Overloading Methods</sectTitle4>
+	<sectTitle5>The scope of Variables</sectTitle5>
+
+	<sect1>A method consists of its method name, parameters, return value type, and body</sect1>
+	<sect2>When calling a method this executes the code in the method</sect2>
+	<sect3>The arguments are passed by value to parameters when invoking a method</sect3>
+	<sect4>The overloading of methods allows you to define the methods with the same name as long as thier signatures are different</sect4>
+	<sect5>The scope of the variable is the part of the program where the varible can be referenced</sect5>
+
+	<Hint1>The syntax for defining a method is:</Hint1>
+	<Hint2>What does the method need to do? Here`s an example:</Hint2>
+	<Hint3>This will work with the parameters. Here`s an example:</Hint3>
+	<Hint4>An example of this is:</Hint4>
+	<Hint5>Example of that would be:</Hint5>
+
+	<recap>IN this chapter you have learned some advanced methods and variables.</recap>
+</ch03>
+
+
+
+

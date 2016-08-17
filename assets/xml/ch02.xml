@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ch02>
+    <mainTitle>Basic Operators and loops</mainTitle>
+    <intro>In the following sections you will gain more knowledge and some basic operators and loops.</intro>
+
+    <sectTitle1>Logical Operators</sectTitle1>
+    <sectTitle2>switch Statements</sectTitle2>
+    <sectTitle3>conditional Expressions</sectTitle3>
+    <sectTitle4>Formatting Console Output</sectTitle4>
+    <sectTitle5>The while loop</sectTitle5>
+    <sectTitle6>Do-While Loop</sectTitle6>
+    <sectTitle7>The For-Loop</sectTitle7>
+    <sectTitle8>How to know which loop to use</sectTitle8>
+    <sectTitle9>Nested Loops</sectTitle9>
+    <sectTitle10>Keywords break and continue</sectTitle10>
+
+    <sect01>These can be used to create a compound boolean expression</sect01>
+    <sect02>This statement executes statements based on the value of a variable or an expression</sect02>
+    <sect03>A conditional expression evaluates an expression based on a condition</sect03>
+    <sect04>This section shows you how to format console output</sect04>
+    <sect05>A while loop executes statements repeatedly while the condition is true</sect05>
+    <sect06>The same as the while loop except it executes the loop body first and then checks the loop continuation condition</sect06>
+    <sect07>The for loop has a concise syntax for writing loops</sect07>
+    <sect08>You can use a for loop a while loop or a do while loop. But which one?</sect08>
+    <sect09>This will show you how a loop can be nested inside another loop</sect09>
+    <sect10>The break and continue keywords proviiide additional controls in a loop</sect10>
+
+    <hint1>How a compound boolean expression looks when written correctly</hint1>
+    <hint2>What switch statement should look like</hint2>
+    <hint3>Use the case method an example of this is:</hint3>
+    <hint4>It only matters on the condition</hint4>
+    <hint5>This is what a console output looks like</hint5>
+    <hint6>This is how a while loop looks like </hint6>
+    <hint7>This is what a do-while loop looks like</hint7>
+    <hint8>Example of for loop</hint8>
+    <hint9>Examples of each loop with how you should use them</hint9>
+    <hint10>Example of nested loop statement</hint10>
+    <hint11>Examples of the keywords and continue controls in a loop</hint11>
+
+    <recap>In this chapter we have looked over the additional operators and loops. These are the basics of coding in Java.</recap>
+</ch02>

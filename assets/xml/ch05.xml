@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ch05>
+	<mainTitle>Objects Classes and Strings</mainTitle>
+	<intro>This chapter will explain the inner workings of objects class and strings</intro>
+
+	<sectTitle1>Defining class for objects</sectTitle1>
+	<sectTitle2>Constructing objects using constructors</sectTitle2>
+	<sectTitle3>Using classes from the java library</sectTitle3>
+	<sectTitle4>Static Variables, Constants, and Methods</sectTitle4>
+	<sectTitle5>Visibiity Modifiers</sectTitle5>
+	<sectTitle6>Array of objects</sectTitle6>
+	<sectTitle7>The string class</sectTitle7>
+	<sectTitle8>The character class</sectTitle8>
+	<sectTitle9>Command-Line Arguments</sectTitle9>
+
+	<sect1>The class deines the properties and behaviors for objects</sect1>
+	<sect2>A constructor is invoked to create an object using the new operator</sect2>
+	<sect3>In Java the API contains a rich set of classes for developing Java programs</sect3>
+	<sect4>A static variable is shared by all objects of the class. The static Method cannot access instance members of the class</sect4>
+	<sect5>The visibility of a class cna be used to specify the visibility of a class and its members</sect5>
+	<sect6>The array can hold objects as well as primitive type values</sect6>
+	<sect7>The string cannot be changed once the string is created</sect7>
+	<sect8>You can create an object using character class</sect8>
+	<sect9>The main method can recieve string arguments from the command line.</sect9>
+
+	<hint1>An example of this is:</hint1>
+	<hint2>This will show you how to use the constructors with the objects</hint2>
+	<hint3>How to use the classes in the java library</hint3>
+	<hint4>Here is an example of static variables constants and methods</hint4>
+	<hint5>Example of the modifiers</hint5>
+	<hint6>The example of array of objects</hint6>
+	<hint7>Example of the string class</hint7>
+	<hint8>Examples of the character class</hint8>
+	<hint9>Here is an example of command line arguments</hint9>
+
+	<recap>In this chapter you have learned the building blocks of objects, classes, and strings.</recap>
+</ch05>
+
+
+
+

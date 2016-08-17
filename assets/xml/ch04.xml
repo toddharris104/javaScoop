@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ch04>
+	<mainTitle>Single-Dimensional and Multidimensional Arrays</mainTitle>
+	<intro>This sectrion will teach you about the different types of arrays</intro>
+
+	<sectTitle1>Array Basics</sectTitle1>
+	<sectTitle2>Copying Arrays</sectTitle2>
+	<sectTitle3>Passing Arrays to Methods</sectTitle3>
+	<sectTitle4>Return the Array from Methods</sectTitle4>
+	<sectTitle5>The Array Class</sectTitle5>
+	<sectTitle6>Two-Dimensional Array Basics</sectTitle6>
+	<sectTitle7>Processing Two-Dimensional Arrays</sectTitle7>
+	<sectTitle8>Passing Two-Dimensional Arrays</sectTitle8>
+	<sectTitle9>Multidimensional Arrays</sectTitle9>
+
+	<sect1>Once an array is created the size is fixed. An array reference variable is used to access the elements in an array using an index.</sect1>
+	<sect2>The copying of one array into another you have to copy the array`s individual elements into the new one.</sect2>
+	<sect3>When passing an array to a method the reference of the array is passed to the method.</sect3>
+	<sect4>The reference of the array is returned</sect4>
+	<sect5>This class contains useful methods for common array operations such as sorting and searching</sect5>
+	<sect6>An element in a two-dimensional array is accessed through a row and a column</sect6>
+	<sect7>These are nested for loops are often used to process a two-dimensional array</sect7>
+	<sect8>Passing a two-dimensional array to a method the reference of the array is passed to the method</sect8>
+	<sect9>The two-Dimensional array consists of an array of one-dimensional arrays and a three dimensional array consists of an array of two-dimensional arrays</sect9>
+
+	<hint1>An example of array basics is:</hint1>
+	<hint2>Example of copying an array is:</hint2>
+	<hint3>An example of passing arrays</hint3>
+	<hint4>This is an example of a returned array</hint4>
+	<hint5>Example of this is:</hint5>
+	<hint6>Example of this would be:</hint6>
+	<hint7>Here are some examples of these:</hint7>
+	<hint8>An example of this is:</hint8>
+	<hint9>A great example of this is:</hint9>
+
+	<recap>In this section you have learned how to use the single dimensional array and multi-dimensional array.</recap>
+</ch04>
+
+
+
+

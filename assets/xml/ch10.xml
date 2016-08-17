@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ch10>
+	<mainTitle>Abstract Classes and Interfaces</mainTitle>
+	<intro>A superclass defines common behavior for related subclasses</intro>
+
+	<sectTitle1>Abstract Classes</sectTitle1>
+	<sectTitle2>Interfaces</sectTitle2>
+	<sectTitle3>The Comparable Interface</sectTitle3>
+	<sectTitle4>The Cloneable Interface</sectTitle4>
+
+	<sect1>An abstract class cannot be used to create objects. It can contain abstract methods which are implemented in concrete subclasses</sect1>
+	<sect2>An Interface is a class-like construct that contains only constants and abstract methods.</sect2>
+	<sect3>This interface defines the compare to method for comparing objects.</sect3>
+	<sect4>Specifies that an object can be cloned</sect4>
+
+	<hint1>Example of an abstract class:</hint1>
+	<hint2>Example of Interfaces:</hint2>
+	<hint3>Show you the example of the comparable interface:</hint3>
+	<hint4>Examle of the cloneable interface:</hint4>
+
+	<recap>In this chapter you have learned about abstract classes and interfaces</recap>
+</ch10>

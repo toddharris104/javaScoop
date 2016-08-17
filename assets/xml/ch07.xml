@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ch07>
+	<mainTitle>Inheritance and Polymorphism</mainTitle>
+	<intro>Allows you to define new classes from the existing ones</intro>
+
+	<sectTitle1>Superclasses and Subclasses</sectTitle1>
+	<sectTitle2>The super keyword</sectTitle2>
+	<sectTitle3>Overriding Methods</sectTitle3>
+	<sectTitle4>The object class and its to string methods</sectTitle4>
+	<sectTitle5>Polymorphism</sectTitle5>
+	<sectTitle6>Dynamic Binding</sectTitle6>
+	<sectTitle7>The arrayList Class</sectTitle7>
+
+	<sect1>Inheritance enables you to define a general class amd extend it to more specialized classes.</sect1>
+	<sect2>This refers to the superclass and can be used to invoke the superclass`s methods and constructors</sect2>
+	<sect3>This will show you how to override a method.  It must be defined in the subclass using the same signature and the same return type as in its superclass</sect3>
+	<sect4>Show you how every class is a part of Java</sect4>
+	<sect5>Shows how a variable of a supertype can refer to a subtype object</sect5>
+	<sect6>This method can be implemented in several classes along the inheritance chain</sect6>
+	<sect7>This can be used to store a list of objects</sect7>
+
+	<hint1>An example of this is:</hint1>
+	<hint2>An example of this superclass is:</hint2>
+	<hint3>Example of how to override a method:</hint3>
+	<hint4>Example of the descendant classes of JAVA</hint4>
+	<hint5>Example of a supertype:</hint5>
+	<hint6>Example of this is:</hint6>
+	<hint7>Show you how it can store a list:</hint7>
+
+	<recap>IN this chapter you have seen wht the Inheritance and Polymorphism is all about.</recap>
+</ch07>
+
+
+
+

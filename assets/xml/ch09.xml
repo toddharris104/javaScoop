@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ch09>
+	<mainTitle>Exception Handling and Text I/O</mainTitle>
+	<intro>This enables a program to deal with exceptional situations and continue its normal execution.</intro>
+
+	<sectTitle1>Exceptional Handling Overview</sectTitle1>
+	<sectTitle2>Exception Types</sectTitle2>
+	<sectTitle3>The Finally Clause</sectTitle3>
+	<sectTitle4>When to use Exceptions</sectTitle4>
+	<sectTitle5>The File Class</sectTitle5>
+	<sectTitle6>File Input and Output</sectTitle6>
+	<sectTitle7>File Dialogs</sectTitle7>
+	<sectTitle8>Reading Data from the Web</sectTitle8>
+
+	<sect1>Exceptions are thrown from a method. The caller of the method can catch and handle the exception.</sect1>
+	<sect2>Exceptions are objects are defined using classes</sect2>
+	<sect3>This clause is alwyas executed regardless whether an exception occurred or not.</sect3>
+	<sect4>Use these exceptions instead of creating your own.</sect4>
+	<sect5>This class contains the methods for obtaining the properties of a file and for renaming and deleting a file.</sect5>
+	<sect6>Use the scanner for reading and the printwriter class for writing text data to a file</sect6>
+	<sect7>This is a GUI component</sect7>
+	<sect8>You can read data from the web.</sect8>
+
+	<hint1>Example of this is:</hint1>
+	<hint2>Examples of exception types are:</hint2>
+	<hint3>Shows you how the finally clause works:</hint3>
+	<hint4>Explains when to use exceptions:</hint4>
+	<hint5>The example of the file class is:</hint5>
+	<hint6>Examples of file input and output:</hint6>
+	<hint7>Shows you the example of the file dialogs:</hint7>
+	<hint8>Examples of reading data from the web:</hint8>
+
+	<recap>In this chapter you have learned about the exception Handling and Text I/O</recap>
+</ch09>
+
+
+
+

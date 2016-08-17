@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ch01>
+    <mainTitle>Programming Made Simple</mainTitle>
+    <intro>You will learn how to write a simple code. You will have the tools to write a simple code at the end of this lesson</intro>
+
+    <sectTitle1>Identifiers</sectTitle1>
+    <sectTitle2>Variables</sectTitle2>
+    <sectTitle3>Named Constants</sectTitle3>
+    <sectTitle4>Numeric Types and Operators</sectTitle4>
+    <sectTitle5>Numeric Literals</sectTitle5>
+    <sectTitle6>Character Data Type and Operations</sectTitle6>
+    <sectTitle7>boolean Data Type</sectTitle7>
+    <sectTitle8>If statements</sectTitle8>
+    <sectTitle9>Two-way if-else Statements</sectTitle9>
+
+    <sect1>These are the names that identify the elements like classes, methods and variables.</sect1>
+    <sect2>Varibles are containers for storing data values. Here is an example </sect2>
+    <sect3>It is an identifier that represents a permanent value. A constant must be declared and initialized in the same statement</sect3>
+    <sect4>These are made for data types</sect4>
+    <sect5>The assignment statements assigns a value to a variable </sect5>
+    <sect6>A character type represents a single character. We will go over the operations.</sect6>
+    <sect7>A boolean data type declares a variable with value either true or false</sect7>
+    <sect8>The if statements execute the statements if the condition is true.</sect8>
+    <sect9>An if-else statement decides whiich statements to execute based on whether the condition is true or false</sect9>
+
+    <hint1>Start off by using the simple code you know</hint1>
+    <hint2>Example of Identifiers:</hint2>
+    <hint3>Examples of Variables are:</hint3>
+    <hint4>Examples of a Named Constants are:</hint4>
+    <hint5>There are 6 numeric types for integers and floating point numbers with operators.Example of Numeric Operators and types are:</hint5>
+    <hint6>Example of this is Scanner Input. Will look like this:  This will create an object of the Scanner type.</hint6>
+    <hint7>Example of characters and operators are:</hint7>
+    <hint8>An example of the Boolean data type is:</hint8>
+    <hint9>A good example of how the if statements should look:</hint9>
+    <hint10>The example of how the if-else statements work:</hint10>
+
+    <recap>IN this chapter you have learned the basics of what is needed to code in Java</recap>
+</ch01>
